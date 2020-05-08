@@ -9,7 +9,6 @@ make run
 ```
 
 ## How to run with docker
-sh build-script.sh
 docker-compose up
 
 ## Test
