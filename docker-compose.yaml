@@ -6,4 +6,4 @@ services:
     volumes:
       - ./hello_world:/app
     ports:
-      - '8080:8080'
+      - '8080:5000'
