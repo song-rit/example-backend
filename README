@@ -7,3 +7,8 @@ python manage.py migrate
 
 make run
 ```
+
+## ENV
+sit: https://hello-python-app.herokuapp.com
+uat: https://hello-python-uat-app.herokuapp.com
+production: https://hello-python-prod-app.herokuapp.com
