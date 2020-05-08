@@ -8,6 +8,13 @@ python manage.py migrate
 make run
 ```
 
+## How to run with docker
+sh build-script.sh
+docker-compose up
+
+## Test
+http://localhost:8080
+
 ## ENV
 sit: https://hello-python-app.herokuapp.com
 uat: https://hello-python-uat-app.herokuapp.com
